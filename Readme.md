@@ -1,5 +1,12 @@
 # AWS DynamoDB Country Reports Generator
 
+Overview:
+ - create and delete DynamoDB tables
+ - load DynamoDB tables from CSV files
+ - create/remove specific records from table
+ - add/modify existing records
+ - create reports for countries and years
+
 How to Run:
  - install necessary requirements from requirements.txt file
  - need to have a configuration file named 'dynamodb.conf' in the same directory as 'CountryReportDB.py'
