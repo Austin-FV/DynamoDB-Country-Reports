@@ -1,0 +1,3 @@
+*.conf
+*report.txt
+__pycache__
